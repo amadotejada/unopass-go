@@ -3,7 +3,7 @@
 ##### Written by [Amado Tejada](https://www.linkedin.com/in/amadotejada/)
 
 ##
-*unopass-go* is a convenient Go package that allows you to retrieve secrets from the 1Password CLI at runtime using your biometrics.
+*unopass-go* is a Go package that allows you to retrieve secrets from the 1Password CLI using your biometrics.
 #
 #### Install
 
